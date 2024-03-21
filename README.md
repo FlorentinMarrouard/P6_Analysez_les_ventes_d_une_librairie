@@ -9,6 +9,7 @@ Une analyse plus ciblée sur les clients : l’objectif est de comprendre le com
 Pour cela, je t’invite à voir avec Julie, qui te précisera directement ses demandes à ce niveau.
 
 Faire 5 corrélations: 
+
 Le lien entre le genre d'un client et les catégories des livres achetés
 
 Le Lien entre l'âge des clients et le montant total des achats
